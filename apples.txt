@@ -1,1 +1,2 @@
 this files is apples .txt
+i am adding more text for apples.txt file
